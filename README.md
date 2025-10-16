@@ -111,7 +111,7 @@
 → Red Hat Certified System Administrator (RHCSA)
 ```
 
-*Replace with your actual certifications*
+
 
 ---
 
