@@ -81,22 +81,8 @@
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 
----
 
-## 📊 IMPACT METRICS
 
-<div align="center">
-
-| CATEGORY | COUNT |
-|----------|-------|
-| **VULNERABILITIES DISCOVERED** | 50+ |
-| **CVEs PUBLISHED** | 12 |
-| **SYSTEMS HARDENED** | 100+ |
-| **SERVERS ADMINISTERED** | 500+ |
-| **SECURITY REPORTS FILED** | 200+ |
-| **UPTIME MAINTAINED** | 99.9% |
-
-</div>
 
 ---
 
