@@ -20,10 +20,10 @@
 ┌─────────────────────────────────────────────────┐
 │  [SECURITY RESEARCHER]                          │
 │  Finding vulnerabilities before attackers do    │
-│                                                  │
+│                                                 │
 │  [SYSTEMS ADMINISTRATOR]                        │
 │  Building and securing critical infrastructure  │
-│                                                  │
+│                                                 │
 │  [ETHICAL HACKER]                               │
 │  Responsible disclosure & community safety      │
 └─────────────────────────────────────────────────┘
