@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:0a1628,100:58a6ff&amp;height=180&amp;section=header&amp;text=DonkeyXBT&amp;fontSize=72&amp;fontColor=58a6ff&amp;animation=fadeIn&amp;fontAlignY=42&amp;desc=Security%20Researcher%20%26%20Systems%20Administrator&amp;descAlignY=62&amp;descSize=16&amp;descColor=8b949e" width="100%"/>
+
 
 <div align="center">
 
@@ -68,7 +68,7 @@ focus:
 
 <br/>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=DonkeyXBT&theme=darkhub&no-frame=true&no-bg=true&column=7)
+![Trophies](https://github-trophies.vercel.app/?username=DonkeyXBT&theme=darkhub&no-frame=true&no-bg=true&column=7)
 
 </div>
 
