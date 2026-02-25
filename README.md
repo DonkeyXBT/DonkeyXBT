@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a1628,100:58a6ff&height=180&section=header&text=DonkeyXBT&fontSize=72&fontColor=58a6ff&animation=fadeIn&fontAlignY=42&desc=Security%20Researcher%20%26%20Systems%20Administrator&descAlignY=62&descSize=16&descColor=8b949e" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:0a1628,100:58a6ff&amp;height=180&amp;section=header&amp;text=DonkeyXBT&amp;fontSize=72&amp;fontColor=58a6ff&amp;animation=fadeIn&amp;fontAlignY=42&amp;desc=Security%20Researcher%20%26%20Systems%20Administrator&amp;descAlignY=62&amp;descSize=16&amp;descColor=8b949e" width="100%"/>
 
 <div align="center">
 
@@ -55,16 +55,16 @@ focus:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DonkeyXBT&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true" height="165"/>
-<img src="https://streak-stats.demolab.com/?user=DonkeyXBT&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=DonkeyXBT&amp;show_icons=true&amp;theme=dark&amp;hide_border=true&amp;bg_color=0d1117&amp;icon_color=58a6ff&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;count_private=true&amp;include_all_commits=true" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=DonkeyXBT&amp;theme=dark&amp;hide_border=true&amp;background=0d1117&amp;stroke=58a6ff&amp;ring=58a6ff&amp;fire=58a6ff&amp;currStreakLabel=58a6ff" height="165"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonkeyXBT&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonkeyXBT&amp;layout=compact&amp;theme=dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;langs_count=8"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DonkeyXBT&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=0a1628&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DonkeyXBT&amp;bg_color=0d1117&amp;color=58a6ff&amp;line=58a6ff&amp;point=c9d1d9&amp;area=true&amp;area_color=0a1628&amp;hide_border=true" width="100%"/>
 
 <br/>
 
@@ -84,4 +84,4 @@ focus:
 >
 > 📧 security@yourdomain.com
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:58a6ff,100:0d1117&amp;height=100&amp;section=footer" width="100%"/>
