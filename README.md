@@ -31,11 +31,34 @@ Security researcher with a sysadmin background. I break systems to understand ho
 
 ---
 
+### Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **vuln-scanner** | Automated web app vulnerability scanner covering OWASP Top 10 | Python, Docker |
+| **infra-hardener** | Ansible playbook collection for CIS-benchmark server hardening | Ansible, Bash |
+| **k8s-sec-audit** | Kubernetes cluster security auditing tool with HTML report output | Go, Kubernetes |
+| **network-sentinel** | Real-time network anomaly detector with alerting pipeline | Python, Rust |
+| **cve-tracker** | Personal CVE research dashboard with disclosure timeline tracking | Python, SQLite |
+| **pentest-toolkit** | Curated, containerised pentest environment based on Kali Linux | Docker, Bash |
+
+---
+
 ### Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DonkeyXBT&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DonkeyXBT&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DonkeyXBT&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DonkeyXBT&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8)
+
+</div>
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=DonkeyXBT&theme=darkhub&no-frame=true&no-bg=true&column=7)
 
 </div>
 
